@@ -4,10 +4,10 @@ var Schema = mongoose.Schema
 
 var info = new Schema({
     First_name: String,
-    Last_name: req.get("Last name"),
-    DOB: req.get("DOB"),
-    Address: req.get("Address"),
-    Gender: req.get("Gender")
+    Last_name: String,
+    DOB: String,
+    Address: String,
+    Gender: String
 })
 
 const Data = mongoose.model("Data", info)
