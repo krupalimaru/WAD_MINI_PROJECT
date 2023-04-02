@@ -3,11 +3,11 @@ var mangooose = require("mongoose")
 var Schema = mongoose.Schema
 
 var info = new Schema({
-    First_name: String,
-    Last_name: String,
-    DOB: String,
-    Address: String,
-    Gender: String
+    Name: String,
+    Email: String,
+    Password: String,
+    Contact: String,
+    
 })
 
 const Data = mongoose.model("Data", info)
