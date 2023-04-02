@@ -5,7 +5,7 @@
 <meta charset="utf-8" />
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<meta name="WAD project" content="" />
+<meta name="wdd project" content="" />
 <meta name="Kushagra verma" content="" />
 <title></title>
 <!-- Favicon-->
@@ -28,7 +28,7 @@
 		class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top"
 		id="mainNav">
 		<div class="container">
-			<a class="navbar-brand" href="#page-top">Kushagra WAD mini project</a>
+			<a class="navbar-brand" href="#page-top">Kushagra wdd mini project</a>
 			<button
 				class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded"
 				type="button" data-bs-toggle="collapse"
@@ -58,7 +58,7 @@
 			<img class="masthead-avatar mb-5" src="assets/img/avataaars.svg"
 				alt="..." />
 			<!-- Masthead Heading-->
-			<h1 class="masthead-heading text-uppercase mb-0">Welcome To Kushagra WAD mini project</h1>
+			<h1 class="masthead-heading text-uppercase mb-0">Welcome To Kushagra wdd mini project</h1>
 			<!-- Icon Divider-->
 			<div class="divider-custom divider-light">
 				<div class="divider-custom-line"></div>
@@ -198,7 +198,7 @@
 			<!-- About Section Content-->
 			<div class="row">
 				<div class="col-lg-4 ms-auto">
-					<p class="lead">WAD (Web app development) is an open elective being handled by Dr.M.Jeyaselvi.<br></p>
+					<p class="lead">wdd (Web app development) is an open elective being handled by Dr.M.Jeyaselvi.<br></p>
 					<p>This semester consisted of 5 units which were thought to us over the period of 5 months.</p>
 				</div>
 				<div class="col-lg-4 me-auto">
@@ -329,7 +329,7 @@
 	<!-- Copyright Section-->
 	<div class="copyright py-4 text-center text-white">
 		<div class="container">
-			<small>Copyright &copy; Kushagra's WAD project</small>
+			<small>Copyright &copy; Kushagra's wdd project</small>
 		</div>
 	</div>
 	<!-- Portfolio Modals-->
