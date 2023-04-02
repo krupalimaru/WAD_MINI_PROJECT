@@ -21,11 +21,11 @@ mongoose.connection.once("open", ()=>{
 //POST request
 app.post('/create', (req, res) =>{
     var user = new Data ({
-    First_name: req.get("First name"),
-    Last_name: req.get("Last name"),
-    DOB: req.get("DOB"),
-    Address: req.get("Address"),
-    Gender: req.get("Gender")
+    First_name: req.get("Name"),
+    Email: req.get("Email"),
+    Password: req.get("Password"),
+    Conatact: req.get("Contact")
+   
     })
 
     user.save().then(() =>{

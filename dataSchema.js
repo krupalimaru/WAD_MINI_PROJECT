@@ -6,7 +6,7 @@ var info = new Schema({
     Name: String,
     Email: String,
     Password: String,
-    Contact: String,
+    Contact: String
     
 })
 
